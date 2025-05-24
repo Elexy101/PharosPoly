@@ -26,5 +26,30 @@ Key Features:
   
 - 📊 Real-Time Updates – Auto-refreshing UI keeps your game state current
 
-Built for the Pharos Testnet, this game combines classic board game fun with blockchain transparency and digital ownership. Start playing, collect rewards, and aim for the NFT prize!
+
+# How It Works
+
+### Start the Game
+
+- Connect your wallet (MetaMask or similar).
+
+- Click "Start Game" to receive 500 PHAMONO tokens as your starting balance.
+
+### Roll the Dice
+
+- Click "Roll Dice" to move around the board.
+
+- Each tile has different effects:
+
+(a) 💰 Profit Tiles (Green) – Earn tokens!
+
+(b) 💸 Loss Tiles (Red) – Lose tokens.
+
+(c) ⚪ Neutral Tiles – Safe spots (no effect).
+
+- Mint an NFT (Bonus Reward!)
+
+
+
+N/B: Built for the Pharos Testnet, this game combines classic board game fun with blockchain transparency and digital ownership. Start playing, collect rewards, and aim for the NFT prize!
 
