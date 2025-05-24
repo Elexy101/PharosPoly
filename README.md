@@ -47,7 +47,9 @@ Key Features:
 
 (c) ⚪ Neutral Tiles – Safe spots (no effect).
 
-- Mint an NFT (Bonus Reward!)
+### Mint an NFT (Bonus Reward!)
+
+ - If you collect 1,000 PHAMONO tokens, you can mint a limited-edition NFT (only 5,000 exist!).
 
 
 
